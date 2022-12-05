@@ -10,7 +10,9 @@ This project is based on the improvement of the salary prediction model in the K
 # STEP BY STEP:
 
 💻 Data import
+
 🧹 Data cleaning: rename variables, columns elimination... (ETL)
+
 ⚙️ Development of the predictive model: Random Forest
 
 # RESULTS:
